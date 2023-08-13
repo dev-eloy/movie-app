@@ -1,0 +1,79 @@
+@import 'variables';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.movie-card {
+  margin: $margin-medium;
+  cursor: pointer;
+  transition: box-shadow 0.3s;
+
+  &:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: $border-radius $border-radius 0 0;
+}
+
+.movie-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: $border-radius $border-radius 0 0;
+  cursor: default;
+}
+
+.card-header {
+  border-radius: 0 0 $border-radius $border-radius;
+  background-color: white;
+}
+
+.see-details-button {
+  margin: $margin-small auto;
+}
+
+.modal-content {
+  padding: $padding-medium;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: $logo-container-margin-top;
+}
+
+.logo-image {
+  width: $logo-image-width;
+}
+
+.dropdown-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: $margin-small; // Utiliza la variable correspondiente
+}
+
+.results-per-page-selector-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
