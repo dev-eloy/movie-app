@@ -36,7 +36,7 @@ Si se me asignara más tiempo, podría implementar las siguientes mejoras:
 Ejecute el siguiente comando para instalar las dependencias del proyecto:
 - `npm install`
 
-1. Iniciar la aplicación:
+3. Iniciar la aplicación:
 Una vez que se hayan instalado todas las dependencias, ejecute el siguiente comando para iniciar la aplicación:
 - `npm start` o - `yarn start`
 
