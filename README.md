@@ -1,6 +1,6 @@
 # Raona Prueba Técnica - React Developer
 
-Este repositorio contiene mi solución para la prueba técnica de Desarrollador Front-End React para Raona. A continuación, se describen los detalles de la solución y las instrucciones para ejecutar y configurar el proyecto.
+Este repositorio contiene mi solución para la prueba técnica de Desarrollador Front-End React para Raona. A continuación, se describen los detalles de la solución, las instrucciones para ejecutar y configurar el proyecto.
 
 ## Detalles de la solución
 
@@ -48,7 +48,7 @@ En esta solución, he demostrado mi habilidad para desarrollar aplicaciones Reac
 
 Si se me brindara más tiempo, aprovecharía para implementar mejoras adicionales y funcionalidades avanzadas, como pruebas unitarias, paginación más robusta, filtros avanzados y una experiencia de usuario más pulida y atractiva. Estoy seguro de que esta base sólida podría expandirse y optimizarse aún más.
 
-Cualquier pregunta o duda, no duden en contactarme.
+Cualquier pregunta, no duden en contactarme.
 
 > ¡Saludos!
 
